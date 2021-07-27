@@ -1,2 +1,2 @@
 # Basecamp42
-Projetos desenvolvidos no Bootcamp da 42sp
+Projetos desenvolvidos no Basecamp da 42sp
